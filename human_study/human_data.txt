@@ -1,0 +1,45 @@
+Score between: Aborigine and American 82550
+Score between: Aborigine and Armenia 82607
+Score between: Aborigine and Chinese 82587
+Score between: Aborigine and Ethiopia 82621
+Score between: Aborigine and France 82659
+Score between: Aborigine and German 82608
+Score between: Aborigine and Native American 82583
+Score between: Aborigine and Nicobarese 82530
+Score between: Aborigine and Samoan 82510
+Score between: American and Armenia 82536
+Score between: American and Chinese 82622
+Score between: American and Ethiopia 82522
+Score between: American and France 82587
+Score between: American and German 82537
+Score between: American and Native American 82637
+Score between: American and Nicobarese 82485
+Score between: American and Samoan 82457
+Score between: Armenia and Chinese 82568
+Score between: Armenia and Ethiopia 82607
+Score between: Armenia and France 82729
+Score between: Armenia and German 82622
+Score between: Armenia and Native American 82569
+Score between: Armenia and Nicobarese 82544
+Score between: Armenia and Samoan 82517
+Score between: Chinese and Ethiopia 82554
+Score between: Chinese and France 82619
+Score between: Chinese and German 82583
+Score between: Chinese and Native American 82683
+Score between: Chinese and Nicobarese 82477
+Score between: Chinese and Samoan 82463
+Score between: Ethiopia and France 82659
+Score between: Ethiopia and German 82608
+Score between: Ethiopia and Native American 82555
+Score between: Ethiopia and Nicobarese 82516
+Score between: Ethiopia and Samoan 82517
+Score between: France and German 82674
+Score between: France and Native American 82648
+Score between: France and Nicobarese 82582
+Score between: France and Samoan 82582
+Score between: German and Native American 82598
+Score between: German and Nicobarese 82531
+Score between: German and Samoan 82504
+Score between: Native American and Nicobarese 82492
+Score between: Native American and Samoan 82485
+Score between: Nicobarese and Samoan 82579

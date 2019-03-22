@@ -1,0 +1,15 @@
+Score between: Baboon and Bonobo 61169
+Score between: Baboon and Chimpanzee 61040
+Score between: Baboon and Gorilla (Western Lowland) 60213
+Score between: Baboon and Gorilla 60036
+Score between: Baboon and West African Common Chimpanzee 61031
+Score between: Bonobo and Chimpanzee 78087
+Score between: Bonobo and Gorilla (Western Lowland) 70572
+Score between: Bonobo and Gorilla 70212
+Score between: Bonobo and West African Common Chimpanzee 78111
+Score between: Chimpanzee and Gorilla (Western Lowland) 70318
+Score between: Chimpanzee and Gorilla 70036
+Score between: Chimpanzee and West African Common Chimpanzee 82194
+Score between: Gorilla (Western Lowland) and Gorilla 81050
+Score between: Gorilla (Western Lowland) and West African Common Chimpanzee 70388
+Score between: Gorilla and West African Common Chimpanzee 70079
